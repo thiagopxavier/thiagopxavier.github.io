@@ -1,23 +1,35 @@
 body {
     background-color: #EDF6F9;
     font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+
 }
 h1 {
     font-size: 45px;
     font-family: Georgia, serif;
     background-color: #83C5BE;
+    margin-bottom: 7px;
+
 }
 h2 {
     background-color: #3C6E71;
     color: #D9D9D9;
 }
-p {
-    font-size: 18px;
-}
+
 #nationality {
+    font-size: 15px;
     background-color: #D9D9D9;
 }
+#link-profile {
+    list-style: none;
 
+    padding-left: 0%;
+    
+}
+
+a {
+    color: black;
+}
 /* 
 353535 
 006D77
