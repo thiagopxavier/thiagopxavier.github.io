@@ -1,0 +1,29 @@
+body {
+    background-color: #EDF6F9;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    font-size: 45px;
+    font-family: Georgia, serif;
+    background-color: #83C5BE;
+}
+h2 {
+    background-color: #3C6E71;
+    color: #D9D9D9;
+}
+p {
+    font-size: 18px;
+}
+#nationality {
+    background-color: #D9D9D9;
+}
+
+/* 
+353535 
+006D77
+FFDDD2
+E29578
+
+
+
+*/
